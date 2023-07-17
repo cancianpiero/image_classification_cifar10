@@ -1,5 +1,5 @@
 # Application of machine learning techniques for image classification.
-The objective was to compare various classification methods focusing on the construction and performance of neural networks. 
+The objective is to compare various classification methods focusing on the construction and performance of neural networks. 
 
 ## Dataset
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. 
